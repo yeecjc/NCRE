@@ -1,2 +1,2 @@
 # NCRE
-Thank you for your interest in this work, and apologies for the delays! Current plan for release on this repository is late-May.
+Our data has been uploaded. Due to LDC copyright restrictions, the original text can be downloaded from https://catalog.ldc.upenn.edu/LDC2016T13.
